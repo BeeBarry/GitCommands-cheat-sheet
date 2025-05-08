@@ -58,5 +58,4 @@
   {
     "command": "git push",
     "description": "Skickar lokala commits till fjärrrepositoryt."
-  }
-]
+  },
