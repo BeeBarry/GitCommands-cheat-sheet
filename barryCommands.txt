@@ -1,5 +1,4 @@
-[
-  {
+{
     "command": "git init",
     "description": "Initierar ett nytt Git-repository i aktuell mapp."
   },
@@ -59,4 +58,3 @@
     "command": "git push",
     "description": "Skickar lokala commits till fjärrrepositoryt."
   }
-]
