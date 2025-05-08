@@ -38,5 +38,9 @@
   {
     "command": "git branch <namn>",
     "description": "Skapar en ny branch med angivet namn."
+  },
+  {
+    "command": "git checkout <branch>",
+    "description": "Byter till angiven branch."
   }
 ]
