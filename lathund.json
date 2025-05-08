@@ -46,5 +46,9 @@
   {
     "command": "git checkout -b <namn>",
     "description": "Skapar och byter till en ny branch direkt."
+  },
+  {
+    "command": "git merge <branch>",
+    "description": "Slår ihop en annan branch med aktuell branch."
   }
 ]
