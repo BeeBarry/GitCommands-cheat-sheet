@@ -30,5 +30,9 @@
   {
     "command": "git diff",
     "description": "Visar skillnader mellan arbetskopia och staging eller senaste commit."
+  },
+  {
+    "command": "git branch",
+    "description": "Visar alla lokala brancher."
   }
 ]
