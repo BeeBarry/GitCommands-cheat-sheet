@@ -14,5 +14,9 @@
   {
     "command": "git reset --hard",
     "description": "Återställer allt till senaste commit, inklusive arbetskopia."
+  },
+  {
+    "command": "git rm <fil>",
+    "description": "Tar bort en fil från både Git och filsystemet."
   }
 ]
