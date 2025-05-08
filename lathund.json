@@ -50,5 +50,9 @@
   {
     "command": "git merge <branch>",
     "description": "Slår ihop en annan branch med aktuell branch."
+  },
+  {
+    "command": "git pull",
+    "description": "Hämtar och slår ihop ändringar från fjärrrepositoryt."
   }
 ]
